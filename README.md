@@ -1,6 +1,10 @@
 # Terminal X
 
 A **custom terminal emulator** built in **Python** using **Tkinter**, inspired by Linux terminals. It allows you to execute shell commands, navigate command history, and customize appearance, all in a GUI window on your own machine.
+it requires python version greter than 3
+
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ---
 
