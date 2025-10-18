@@ -1,6 +1,6 @@
 # PersonalTerminal
 
-A fully customizable terminal emulator built from scratch with Python and Tkinter. 
+A fully customizable terminal emulator built with Python and Tkinter. 
 This project brings modern GUI customization to traditional command line operations, 
 allowing complete control over your terminal experience.
 
